@@ -1,4 +1,4 @@
-package com.limu.mockito;
+package com.limu.mockito.standalone;
 
 import com.limu.mockito.service.UserService;
 import org.junit.jupiter.api.BeforeEach;

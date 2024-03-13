@@ -1,4 +1,4 @@
-package com.limu.mockito;
+package com.limu.mockito.standalone;
 
 import com.limu.mockito.service.UserFeatureService;
 import com.limu.mockito.service.impl.UserServiceImpl;

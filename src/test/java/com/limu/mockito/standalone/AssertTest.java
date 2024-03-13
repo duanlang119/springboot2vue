@@ -1,4 +1,4 @@
-package com.limu.mockito;
+package com.limu.mockito.standalone;
 
 import org.assertj.core.api.Assertions;
 import org.hamcrest.MatcherAssert;

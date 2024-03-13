@@ -1,4 +1,4 @@
-package com.limu.mockito;
+package com.limu.mockito.standalone;
 
 import com.limu.mockito.bean.VO.UserVO;
 import com.limu.mockito.bean.req.UserUpdateReq;

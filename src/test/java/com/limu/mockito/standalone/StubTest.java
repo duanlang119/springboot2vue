@@ -1,4 +1,4 @@
-package com.limu.mockito;
+package com.limu.mockito.standalone;
 
 import com.limu.mockito.service.impl.UserServiceImpl;
 import org.junit.jupiter.api.Assertions;
